@@ -1,5 +1,5 @@
 # config-bspwm
-bspwm+picom+polybar+hack-theme
+bspwm+picom+polybar+hack-theme(custom)
 
 
 ![Screenshot_2022-08-03-23-00-15_1366x768](https://user-images.githubusercontent.com/14878867/182754556-85043d95-62b6-4d0d-a03d-754979a6e1d4.png)
